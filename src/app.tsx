@@ -1,7 +1,7 @@
 import { ChangeEvent, useState } from 'react'
-import logo from 'assets/logo-nlw-expert.svg'
-import { NewNoteCard } from 'components/new-note-card'
-import { NoteCard } from 'components/note-card.tsx'
+import logo from './assets/logo-nlw-expert.svg'
+import { NewNoteCard } from './components/new-note-card'
+import { NoteCard } from './components/note-card'
 
 
 interface Note {
